@@ -7,13 +7,25 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-sharma09/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ayusharmayk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://x.com/Ayusharmayk?t=nNDkcWex9mwXCNWWY8cbaA&s=08"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+## 🔗 Connect with Me
+
+<h3 align="center">
+
+  <a href="mailto:ayusharmayk@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d17ad93f-916b-4fd7-ad29-65ab3ba150e1" alt="Email" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/ayush-sharma09/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8ddec6c8-cf8f-4702-9a52-0a7b28d1e48f" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/Ayusharmayk?t=nNDkcWex9mwXCNWWY8cbaA&s=08" target="_blank">
+    <img src="https://github.com/user-attachments/assets/95c27b51-a483-4e9b-84d2-bd954f805b0d" alt="X" />
+  </a>
+
+</h3>
+
 
 ---
 
